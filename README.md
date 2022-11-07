@@ -1,3 +1,3 @@
-# Git_repo
+### Git_repo_Question 12
 
-Just an excercise
+Repo is being used to resolve conflict commits for the assignment
