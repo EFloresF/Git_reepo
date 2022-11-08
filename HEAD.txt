@@ -1,3 +1,3 @@
 
-df.loc[df['sex']  ==  'm' 'age'].mean()
+df.loc[df['sex']  ==  'z' 'age'].mean()
 
